@@ -1,0 +1,9 @@
+
+*.exe
+*.log
+CPD/AI3/AI3-Scripts/AI3-CommonFunctions.au3
+CPD/AI3/AI3-Scripts/comp.bat
+CPD/*
+install/*
+AutoUseCaseCopy.au3
+
